@@ -4,7 +4,7 @@
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
 <h4>Eu sou Felipe</h4> 
-<h1 align="center">Seu nome </h1>
+<h1 align="center">OkCelestian</h1>
   
 
 <!---APRESENTAÇÃO--->  
@@ -20,12 +20,12 @@ Bem vindos ao meu resposítório Github!
 <br>  
 
 <!---ESTATÍSTICAS DO GITHUB--->
-<p align="center">
-<a href="https://github.com/LINKDOSEUGIHUB">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OkCelestian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OkCelestian&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<h3 align="left">Github Stats</h3>
+<div align="center">
+  <a href="https://github.com/SabrinaNovaes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OkCelestian&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=87CEFA&title_color=836FFF&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OkCelestian&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+</div>
 
 <br>
 <!---ÍCONES DAS LINGUAGENS E FERRAMENTAS--->   
